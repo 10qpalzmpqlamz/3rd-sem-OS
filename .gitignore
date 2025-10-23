@@ -1,0 +1,78 @@
+# Build directories
+build/
+out/
+bin/
+Bin/
+obj/
+Obj/
+x64/
+x86/
+Debug/
+Release/
+Win32/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+CMakeUserPresets.json
+*.sln
+*.vcxproj*
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.sdf
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.opendb
+*.db
+*.tlog
+*.log
+*.dll
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.exe
+
+# Visual Studio
+.vs/
+.vscode/
+*.VC.db
+*.vc.db
+*.sqlite3
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Project specific (adjust as needed)
+*.user
+*.aps
+*.ncb
+*.opensdf
+*.opendb
+*.db
+*.tlog
+*.log
+*.dll
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.exe
